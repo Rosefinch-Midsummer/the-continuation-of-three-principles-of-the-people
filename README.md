@@ -1,16 +1,16 @@
 # 序
 
-## 
+##
 
-![&#x5C01;&#x9762;](.gitbook/assets/1.png)
+![封面](.gitbook/assets/1.png)
 
 ![](.gitbook/assets/2.png)
 
-[![](https://loongese.com/blog/wp-content/uploads/2018/05/%E5%A4%AA%E5%B8%B8%E6%97%97.jpg)![Images &#x65E5;&#x6708;&#x4E09;&#x8FB0;&#x65D7;.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2c/Images_%E6%97%A5%E6%9C%88%E4%B8%89%E8%BE%B0%E6%97%97.jpg)](https://loongese.com/blog/wp-content/uploads/2018/05/%E5%A4%AA%E5%B8%B8%E6%97%97.jpg)
+[![](https://loongese.com/blog/wp-content/uploads/2018/05/%E5%A4%AA%E5%B8%B8%E6%97%97.jpg)![Images 日月三辰旗.jpg](https://upload.wikimedia.org/wikipedia/commons/2/2c/Images\_%E6%97%A5%E6%9C%88%E4%B8%89%E8%BE%B0%E6%97%97.jpg)](https://loongese.com/blog/wp-content/uploads/2018/05/%E5%A4%AA%E5%B8%B8%E6%97%97.jpg)
 
 **三辰旗**，出自《左传·桓公二年》：“三辰旗旗，昭其明也” ，指的是一面带有日、月、星的旗帜。
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dunhuang_Zhang_Yichao_army.jpg/400px-Dunhuang_Zhang_Yichao_army.jpg)](https://zh.wikipedia.org/wiki/File:Dunhuang_Zhang_Yichao_army.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dunhuang\_Zhang\_Yichao\_army.jpg/400px-Dunhuang\_Zhang\_Yichao\_army.jpg)](https://zh.wikipedia.org/wiki/File:Dunhuang\_Zhang\_Yichao\_army.jpg)
 
 莫高窟唐代壁画《张议潮将军统军出行图》展现了该旗帜
 
@@ -82,7 +82,7 @@
 
 认清历史现实，才能更好地面对未来左派掀起的LGBT、女权等运动，作《人权与女权》第十七。
 
-为恢复我们天汉民族固有的道德、能力和学习欧美文明的长处，作《读书学习及做学问的合理“姿势”》第十八。
+为恢复我们天汉民族固有的道德、能力和学习欧美文明的长处，作《读书学习及做学问的合理方式》第十八。
 
 ## 目录
 
@@ -153,7 +153,7 @@
     * 革命
     * 自由和平等
   * 儒学与欧美哲学
-    * 戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz\)
+    * 戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz)
     * 克里斯蒂安·沃尔夫（Christian Wolff）
     * 伏尔泰（Voltaire）
     * 百科全书派
@@ -264,7 +264,7 @@
   * 域名、根服务器、政府网站统一索引
   * 护照
 * 经济：自由放任藏富于民第十一
-  * 經濟學十大原理\(Ten Principles of Economics \)：
+  * 經濟學十大原理(Ten Principles of Economics )：
   * 自由贸易：實行自由放任市場經濟、關市譏而不征
   * 低税收
   * 货币发行和通货膨胀
@@ -389,7 +389,7 @@
     * 男女比例
     * 田园女权
     * 结语
-* 读书学习及做学问的合理“姿势”第十八
+* 读书学习及做学问的合理方式第十八
   * 核心主张
   * 为学之道即读书学习之目的
   * 博学
@@ -406,4 +406,3 @@
   * 意志力管理
   * 学习型组织的艺术和实务
   * 批判性思維
-
