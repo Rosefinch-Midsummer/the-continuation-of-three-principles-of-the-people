@@ -35,5 +35,4 @@
 * [重建中华法系第十五](untitled-14.md)
 * [重要社会问题解决措施第十六](zhong-yao-she-hui-wen-ti-jie-jue-cuo-shi-di-shi-liu.md)
 * [人权与女权第十七](ren-quan-yu-nv-quan-di-shi-qi.md)
-* [读书学习及做学问的合理“姿势”第十八](untitled-16.md)
-
+* [读书学习及做学问的合理方式第十八](untitled-16.md)
